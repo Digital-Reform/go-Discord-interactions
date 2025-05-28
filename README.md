@@ -1,1 +1,1 @@
-# A DiscordAPI Wrapper for Golang
+# A Discord Rest API Wrapper for Golang
